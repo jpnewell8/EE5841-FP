@@ -29,7 +29,7 @@ EE5841-FP/
 ```
 
 ##### images/
-The images directory holds all figures used in this README.md. The output pictures can be viewed in the notebook.
+The images directory holds all figures used in this README.md and final report. The output pictures can be viewed in the notebook.
 
 ##### notebooks/
 The notebooks directory has the python notebook for the project. This notebook should be ran in Google Colab as that is where the file was mainly run.
