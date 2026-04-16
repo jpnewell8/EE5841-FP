@@ -32,13 +32,13 @@ EE5841-FP/
 The images directory holds all figures used in this README.md and final report. The output pictures can be viewed in the notebook.
 
 ##### notebooks/
-The notebooks directory has the python notebook for the project. This notebook should be ran in Google Colab as that is where the file was mainly run.
+The notebooks directory has the python notebook for the project. This notebook should be ran in Google Colab as that is where the file was mainly run. Review the notebook usage section before running to clarify what each cell is doing.
 
 ##### report/
 The report directory has the final report pdf in it.
 
 ##### scripts/
-This folder has extra scripts used to generate raster data for the distance to forest and distance to water data. These scripts have a lengthy runtime and only had to be run once to obtain the raster data. These scripts use the rasterio library to extract and create the data.
+The scripts directory has extra python scripts used to generate raster data for the distance to forest and distance to water data. These scripts have a lengthy runtime and only had to be run once to obtain the raster data. These scripts use the rasterio library to extract and create the data. These do not need to be run again if you have access to the Google Drive with the data. Also, the raw data would be needed to run these scripts.
 
 ### Notebook Usage
 
