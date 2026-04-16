@@ -55,3 +55,12 @@ The following cell will train the model. The batch size and epoch variables are 
 The last two cells are for evaluation. The first one graphs the loss over the epochs and the accuracy as well. The second one samples the model with some of the inputs used in training to visualize what the model is doing and how the input is related to the output.
 
 **Note:** Without the raster data, the notebook cannot be trained, and with Github file size limits, that data is not in this repository. If the data is needed, please contact one of the group members to provide access to the data.
+
+### Parameter Usage Summary
+
+| Parameter | Usage | Line Number |
+|:---------:|:-----:|:-----------:|
+| num_data | Number of samples of data to generate | Line 1 Cell 2 |
+| epochs | Number of epochs to train for | Line 1 Cell 4 |
+| batch_size | The size of the batches of data for training | Line 2 Cell 4 |
+
